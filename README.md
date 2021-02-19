@@ -1,5 +1,7 @@
 # Extract_sunset_sunrise
 
-This script extract hours of sunset and sunrise for a given nights at given sites.
+This script extracts the hours of sunset and sunrise for given nights at given sites.
 
 A table with the night dates (dates of the beginning of the nights) and the sites latitude and longitude is needed.
+
+Warning : This script might not work for countries outside the Europe/Paris time zone (CEST in summer, CET in winter).
