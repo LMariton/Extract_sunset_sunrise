@@ -6,8 +6,8 @@
 ### Argument ###
 
 # tableNightsSites : a table with (minimum):
-# -> a column named "Latitude" with the site latitude in WGS82
-# -> a column named "Longitude" with the site longitude in WGS82
+# -> a column named "Latitude" with the site latitude in WGS84
+# -> a column named "Longitude" with the site longitude in WGS84
 # -> a column named "Date" with the night date (date when the night began), 
 #    it should be either a string written in this format "YYYY-MM-DD" or "POSIXct" "POSIXt" object.
 
