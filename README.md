@@ -4,7 +4,8 @@ This script extracts the hours of sunset and sunrise for given nights at given s
 
 A table with the night dates (dates of the beginning of the nights) and the sites latitude and longitude in WGS84 is needed.
 
-### Warning 1 : This script might not work for countries outside the Europe/Paris time zone (CEST in summer, CET in winter).
+### Warning 1 : 
+This script might not work for countries outside the Europe/Paris time zone (CEST in summer, CET in winter).
 
 ### Warning 2:  
 **This script is a « function »**, to use it you have to download it and keep the R. file somewhere on your computer.  
