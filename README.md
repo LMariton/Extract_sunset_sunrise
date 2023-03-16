@@ -20,4 +20,4 @@ Here is an example of what your script should look like:
 
 `nightsSurveyed <- read.csv(“C:/Users/Name/Document/sampledNights.csv”)`  
 `source("C:/Users/Name/Document/Script_sunrise_sunset.R")`  
-`nightsSurveyed <- Calc_min_distance(sitesSurveyed,”Code_site”,pathToLayer)`
+`nightsSurveyedUpdated <- Calc_min_distance(nightsSurveyed,”Code_site”,pathToLayer)`
